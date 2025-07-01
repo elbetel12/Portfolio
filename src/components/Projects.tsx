@@ -102,7 +102,7 @@ const projects = [
     description: 'A comprehensive employee management system with features like attendance tracking using QR code scanning, leave management, and performance evaluation.',
     tech: ['HTML', 'CSS','Javascript', 'Django', 'Python'],
     github: 'https://github.com/elbetel12/Ems-Capstone-Project',
-    live: 'https://example.com'
+    live: 'https://elbetel.pythonanywhere.com/'
   },
   {
     title: 'Movie Website',

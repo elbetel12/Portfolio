@@ -141,7 +141,7 @@ const About: React.FC = () => {
                 on the internet, whether that be websites, applications, or anything in between.
               </p>
               <p>
-                My journey in web development started back in 2018 when I decided to try editing custom
+                My journey in web development started back in 2024 when I decided to try editing custom
                 Tumblr themes — turns out hacking together a custom reblog button taught me a lot about
                 HTML & CSS!
               </p>
